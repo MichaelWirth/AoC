@@ -6,7 +6,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 
-public class day1 {
+public class Day1 {
 
 	private static Integer frequency = 0;
 	private static File file = new File("./src/day1/input.txt");
